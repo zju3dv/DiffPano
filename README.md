@@ -10,6 +10,7 @@
 
 ## Teaser
 ![demo_vid](assets/images/teaser.png)
+DiffPano allows scalable and consistent panorama generation (i.e. room switching) with given unseen text descriptions and camera poses. Each column represents the generated multi-view panoramas, switching from one room to another.
 
 ## Panoramic Video-Text Dataset Pipeline
 ![demo_vid](assets/images/dataset_pipeline.jpg)
