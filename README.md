@@ -8,6 +8,8 @@
 
 > [Weicai Ye](https://ywcmaike.github.io/), Chenhao Ji,Zheng Chen, Junyao Gao, Xiaoshui Huang, Song-Hai Zhang, Wanli Ouyang, Tong He, Cairong Zhao, Guofeng Zhang
 
+> NeurIPS 2024
+
 ## Teaser
 ![demo_vid](assets/images/teaser.png)
 DiffPano allows scalable and consistent panorama generation (i.e. room switching) with given unseen text descriptions and camera poses. Each column represents the generated multi-view panoramas, switching from one room to another.
